@@ -1,3 +1,8 @@
+#
+# data_gathering.py
+# Reads through each participant's survey responses and data and collects the important features into one large CSV.
+# Code by Max Cheezic, Nicholas Demetrio, Hayden Ward
+#
 import os
 import pandas as pd
 import numpy as np
